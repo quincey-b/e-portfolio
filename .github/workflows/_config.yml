@@ -1,0 +1,5 @@
+title: "My E-Portfolio Magazine"
+description: "A grunge-bright, Teen Vogue-inspired portfolio"
+baseurl: "" # leave blank for GitHub Pages user site
+url: "https://your-username.github.io"
+theme: minima # or leave out if using your own layout
