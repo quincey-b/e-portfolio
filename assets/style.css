@@ -42,6 +42,13 @@ section {
   border-radius: 20px;
 }
 
+.sticker {
+  position: absolute;
+  width: 80px;
+  z-index: 100;
+  transform: rotate(-10deg);
+}
+
 footer {
   text-align: center;
   background-color: #ff69b4;
