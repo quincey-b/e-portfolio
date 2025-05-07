@@ -1,4 +1,4 @@
-Welcome to my  e-portfolio for Freshman Seminar! This website captures my academic journey, personal growth, and goals as a first-year student at ECSU — all styled like a nostalgic 2000s magazine.
+Welcome to my  e-portfolio for Freshman Seminar! This website captures my academic journey, personal growth, and goals as a first-year student at ECSU.
 
 🧩 What's Inside
 
@@ -22,4 +22,4 @@ Welcome to my  e-portfolio for Freshman Seminar! This website captures my academ
 📧 Email: jrbagley567@students.ecsu.edu  
 🔗 LinkedIn:
 
-> *Built with HTML, CSS, and creativity — no boring slides here!*
+> Built with HTML and CSS
